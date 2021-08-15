@@ -9,9 +9,10 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+ <img align="right" alt="Rafa-cat" src="https://cdn.discordapp.com/emojis/876531914608095354.gif?size=128  ">  
  
+
  
-  <img align="right" alt="Rafa-cat" src="https://cdn.discordapp.com/emojis/853000913199693845.gif?size=64 ">                         
 </div>
 </a>                                                               
     <br>    
@@ -26,4 +27,6 @@
    <a href="https://www.linkedin.com/in/rafael-neris-51bb73201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
  ![Snake animation](https://github.com/rafael877/rafael877/blob/output/github-contribution-grid-snake.svg)
+ 
+ <br>
 </div>                                                                                                        
