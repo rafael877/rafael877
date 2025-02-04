@@ -10,6 +10,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
  <img align="right" alt="Rafa-cat" src="https://cdn.discordapp.com/emojis/876531914608095354.gif?size=128  ">  
+ 
   
 </div>
 </a>                                                               
@@ -23,6 +24,10 @@
    <a href = "https://open.spotify.com/user/313myh73ualvhq6c2u6emwb5mt4i?si=d937662cc1ec4523"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
    <a href = "mailto:contato@rafaelnerisoficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/rafael-neris-51bb73201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+   <a href="https://www.figma.com/@rafael_mendes" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a> 
+   <a href="https://www.behance.net/rafaelmendes34" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
+   <a href="https://br.pinterest.com/NOOBMASTRER_47/" target="_blank"><img src="https://aleen42.github.io/badges/src/pinterest.svg" target="_blank"></a> 
    
  ![Snake animation](https://github.com/rafael877/rafael877/blob/output/github-contribution-grid-snake.svg)
  
