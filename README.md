@@ -37,20 +37,18 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael877&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael877&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael877&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael877&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=86400"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rafael877&theme=tokyonight&hide_border=true" />
-</div>
+<!-- Streak removido por estabilidade. Se quiser voltar, me fala -->
 
 ---
 
 ## 🎧 O que estou ouvindo agora
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=313myh73ualvhq6c2u6emwb5mt4i&cover_image=true&theme=novatorem" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=313myh73ualvhq6c2u6emwb5mt4i&count=3&unique=true" />
 </p>
 
 ---
