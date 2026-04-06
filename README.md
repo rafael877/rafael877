@@ -3,7 +3,6 @@
 <p align="center">
   イエスは生きている ✝️
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=400&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Software+Engineer+Student+🚀;Building+real+projects+😎;Kaisen+%7C+1%25+better+every+day;Be+Kind+Everytime...+🤓;Jesus+Loves+You...❤️;NOOBMASTER_47+-+FORTNITE+🎮" />
 </p>
@@ -13,9 +12,15 @@
 ## 💻 About Me
 
 I am a Software Engineering student (SENAI), focused on backend, IoT, and building real-world solutions.  
-Currently developing practical projects involving automation, systems, and hardware-based monitoring.
+Currently developing practical projects involving automation, systems, and hardware-based monitoring. 
 
-🚀 Always evolving and applying knowledge in practice
+## Resume
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/17yns7pMA402MOlwdUSLzAXQ6sFOdiDmX/view?usp=drive_link" target="_blank">
+    <img src="https://badgen.net/badge/Download%20CV/Click Here/00F7FF?icon=google-drive" />
+  </a>
+</p>
 
 ---
 
