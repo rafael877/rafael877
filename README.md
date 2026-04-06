@@ -10,30 +10,31 @@
 
 ---
 
-## 💻 Sobre mim
+## 💻 About Me
 
-Sou estudante de Engenharia de Software (SENAI), com foco em backend, IoT e desenvolvimento de soluções reais.  
-Atualmente desenvolvendo projetos práticos envolvendo automação, sistemas e monitoramento com hardware.
+I am a Software Engineering student (SENAI), focused on backend, IoT, and building real-world solutions.  
+Currently developing practical projects involving automation, systems, and hardware-based monitoring.
 
-🚀 Sempre evoluindo e colocando conhecimento em prática
-
----
-
-## 🚀 Projetos em destaque
-
-🔹 **SureLock** → Sistema de segurança / autenticação  
-🔹 **ESP32 Monitoramento** → Sistema IoT para coleta e envio de dados em tempo real  
+🚀 Always evolving and applying knowledge in practice
 
 ---
 
-## 🛠️ Tecnologias
+## 🚀 Featured Projects
+
+🔹 **SureLock** → Security / authentication system  
+🔹 **ESP32 Monitoring** → IoT system for real-time data collection and transmission  
+
+---
+
+## 🛠️ Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,cpp,nodejs,react,express,mysql,mongodb,docker,git,linux,figma,arduino,flutter" />
 </p>
 
 ---
-## 📊 Estatísticas
+
+## 📊 Stats
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafael877&show_icons=true&bg_color=00000000&title_color=00F7FF&text_color=00F7FF&icon_color=00F7FF&border_color=00F7FF&include_all_commits=true&count_private=true"/>
@@ -44,6 +45,8 @@ Atualmente desenvolvendo projetos práticos envolvendo automação, sistemas e m
   <img src="https://streak-stats.demolab.com?user=rafael877&theme=transparent&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=00F7FF&currStreakNum=00F7FF&sideNums=00F7FF&dates=00F7FF&border=00F7FF" />
 </p>
 
+---
+
 ## 🎧 Now Playing
 
 <p align="center">
@@ -52,7 +55,7 @@ Atualmente desenvolvendo projetos práticos envolvendo automação, sistemas e m
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCQ4n7NUQBBZU282uzIySoqw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
@@ -66,7 +69,7 @@ Atualmente desenvolvendo projetos práticos envolvendo automação, sistemas e m
 
 ---
 
-## 🐍 Contribuições
+## 🐍 Contributions
 
 <p align="center">
   <img src="https://github.com/rafael877/rafael877/blob/output/snake.svg" />
