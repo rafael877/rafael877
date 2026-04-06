@@ -1,13 +1,11 @@
-<h1 align="center">𝙍𝙖𝙛𝙖𝙚𝙡 𝙈𝙚𝙣𝙙𝙚𝙨 </h1>
+<h1 align="center">𝙍𝙖𝙛𝙖𝙚𝙡 𝙈𝙚𝙣𝙙𝙚𝙨</h1>
 
 <p align="center">
   イエスは生きている ✝️
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=consolas&weight=300&duration=4000&pause=1000&color=20F7F6&center=true&vCenter=true&width=700&lines=Software+Engineer+Student+🚀;Building+real+projects+😎;Kaisen+%7C+1%25+better+every+day;Be+Kind+Everytime...+🤓;Jesus+Loves+You...❤️;NOOBMASTER_47+-+FORTNITE+🎮" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=400&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Software+Engineer+Student+🚀;Building+real+projects+😎;Kaisen+%7C+1%25+better+every+day;Be+Kind+Everytime...+🤓;Jesus+Loves+You...❤️;NOOBMASTER_47+-+FORTNITE+🎮" />
 </p>
 
 ---
@@ -35,24 +33,21 @@ Atualmente desenvolvendo projetos práticos envolvendo automação, sistemas e m
 </p>
 
 ---
-
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafael877&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafael877&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=86400"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafael877&show_icons=true&bg_color=00000000&title_color=00F7FF&text_color=00F7FF&icon_color=00F7FF&border_color=00F7FF&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafael877&layout=compact&langs_count=7&bg_color=00000000&title_color=00F7FF&text_color=00F7FF&border_color=00F7FF"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rafael877&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=rafael877&theme=transparent&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=00F7FF&currStreakNum=00F7FF&sideNums=00F7FF&dates=00F7FF&border=00F7FF" />
 </p>
-
----
 
 ## 🎧 Now Playing
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=313myh73ualvhq6c2u6emwb5mt4i&count=5&unique=true&width=750" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=313myh73ualvhq6c2u6emwb5mt4i&count=5&unique=true&width=900" />
 </p>
 
 ---
@@ -74,9 +69,5 @@ Atualmente desenvolvendo projetos práticos envolvendo automação, sistemas e m
 ## 🐍 Contribuições
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rafael877/rafael877/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rafael877/rafael877/blob/output/github-contribution-grid-snake.svg">
-    <img src="https://github.com/rafael877/rafael877/blob/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github.com/rafael877/rafael877/blob/output/snake.svg" />
 </p>
