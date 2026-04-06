@@ -1,21 +1,23 @@
-<h1 align="center">Rafael Mendes 🚀</h1>
+<h1 align="center">𝙍𝙖𝙛𝙖𝙚𝙡 𝙈𝙚𝙣𝙙𝙚𝙨 </h1>
 
 <p align="center">
-  ソフトウェア開発者 | 日々成長し続ける ⚡  
+  イエスは生きている ✝️
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Software+Engineer+Student;IoT+%7C+Backend+Developer;Always+evolving+every+day..." />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=consolas&weight=300&duration=4000&pause=1000&color=20F7F6&center=true&vCenter=true&width=700&lines=Software+Engineer+Student+🚀;Building+real+projects+😎;Kaisen+%7C+1%25+better+every+day;Be+Kind+Everytime...+🤓;Jesus+Loves+You...❤️;NOOBMASTER_47+-+FORTNITE+🎮" />
+  </a>
 </p>
 
 ---
 
 ## 💻 Sobre mim
 
-- 🎓 Estudante de Engenharia de Software (SENAI)  
-- 🚀 Focado em Backend, IoT e automação  
-- ⚡ Sempre evoluindo e criando projetos reais  
-- 📚 Aprendendo: Node.js, React, sistemas distribuídos  
+Sou estudante de Engenharia de Software (SENAI), com foco em backend, IoT e desenvolvimento de soluções reais.  
+Atualmente desenvolvendo projetos práticos envolvendo automação, sistemas e monitoramento com hardware.
+
+🚀 Sempre evoluindo e colocando conhecimento em prática
 
 ---
 
@@ -36,19 +38,21 @@
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael877&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael877&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=86400"/>
-</div>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafael877&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafael877&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=86400"/>
+</p>
 
-<!-- Streak removido por estabilidade. Se quiser voltar, me fala -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rafael877&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
 
 ---
 
-## 🎧 O que estou ouvindo agora
+## 🎧 Now Playing
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=313myh73ualvhq6c2u6emwb5mt4i&count=3&unique=true" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=313myh73ualvhq6c2u6emwb5mt4i&count=5&unique=true&width=750" />
 </p>
 
 ---
@@ -70,5 +74,9 @@
 ## 🐍 Contribuições
 
 <p align="center">
-  <img src="https://github.com/rafael877/rafael877/blob/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rafael877/rafael877/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rafael877/rafael877/blob/output/github-contribution-grid-snake.svg">
+    <img src="https://github.com/rafael877/rafael877/blob/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
